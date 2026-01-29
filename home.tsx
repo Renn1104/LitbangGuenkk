@@ -33,7 +33,7 @@ const Home: React.FC = () => {
             {["Riset", "Analisis", "Laporan"].map((feature) => (
               <div key={feature} className="p-6 border rounded-lg text-center">
                 <h4 className="text-xl font-bold mb-2">{feature}</h4>
-                <p className="text-gray-600">Deskripsi fitur {feature}</p>
+                <p className="text--600">Deskripsi fitur {feature}</p>
               </div>
             ))}
           </div>
