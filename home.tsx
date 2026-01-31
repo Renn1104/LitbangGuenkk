@@ -20,7 +20,7 @@ const Home: React.FC = () => {
             Platform penelitian dan pengembangan terpercaya
           </p>
           <button className="bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-3 px-8 rounded-lg">
-            Mulai Sekarang
+            Mulai Sekarang!
           </button>
         </div>
       </section>
