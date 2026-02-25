@@ -8,3 +8,15 @@ createRoot(document.getElementById('root')!).render(
     <App />
   </StrictMode>,
 )
+
+createRoot(document.getElementById('modal-root')!).render(
+  <StrictMode>
+    <App />
+  </StrictMode>,
+)
+
+createRoot(document.getElementById('portal-root')!).render(
+  <StrictMode>
+    <App />
+  </StrictMode>,
+)
